@@ -1,0 +1,254 @@
+{
+  "resultData": {
+    "Niphad": {
+      "winnerName": "NO_WINNER",
+      "candidateList": [
+        {
+          "candidateName": "PranBanerjee",
+          "votes": 270
+        },
+        {
+          "candidateName": "KamaVarma",
+          "votes": 270
+        },
+        {
+          "candidateName": "ChidambarPanicker",
+          "votes": 255
+        },
+        {
+          "candidateName": "NOTA",
+          "votes": 230
+        }
+      ]
+    },
+    "Teosa": {
+      "winnerName": "AmareshKakkar",
+      "candidateList": [
+        {
+          "candidateName": "AmareshKakkar",
+          "votes": 143
+        },
+        {
+          "candidateName": "RageshwariNaik",
+          "votes": 134
+        },
+        {
+          "candidateName": "VinayDeshpande",
+          "votes": 124
+        },
+        {
+          "candidateName": "BhagwantiPatel",
+          "votes": 121
+        },
+        {
+          "candidateName": "RajAsan",
+          "votes": 118
+        },
+        {
+          "candidateName": "TarunDesai",
+          "votes": 114
+        },
+        {
+          "candidateName": "KamalaSaini",
+          "votes": 106
+        },
+        {
+          "candidateName": "NOTA",
+          "votes": 137
+        }
+      ]
+    },
+    "Ulhasnagar": {
+      "winnerName": "AnamikaPilla",
+      "candidateList": [
+        {
+          "candidateName": "AnamikaPilla",
+          "votes": 155
+        },
+        {
+          "candidateName": "BhavesChaturvedi",
+          "votes": 149
+        },
+        {
+          "candidateName": "SwaraIyer",
+          "votes": 145
+        },
+        {
+          "candidateName": "DeeptenduMenon",
+          "votes": 138
+        },
+        {
+          "candidateName": "MeghnadPrajapat",
+          "votes": 128
+        },
+        {
+          "candidateName": "DhanapatiKhan",
+          "votes": 124
+        },
+        {
+          "candidateName": "NOTA",
+          "votes": 133
+        }
+      ]
+    },
+    "Kaij": {
+      "winnerName": "ChaitanSharma",
+      "candidateList": [
+        {
+          "candidateName": "ChaitanSharma",
+          "votes": 334
+        },
+        {
+          "candidateName": "AnaghBanerjee",
+          "votes": 308
+        },
+        {
+          "candidateName": "NOTA",
+          "votes": 349
+        }
+      ]
+    },
+    "Hingna": {
+      "winnerName": "HiranyaKhatri",
+      "candidateList": [
+        {
+          "candidateName": "HiranyaKhatri",
+          "votes": 256
+        },
+        {
+          "candidateName": "ShardaAdiga",
+          "votes": 249
+        },
+        {
+          "candidateName": "BaijayantiJain",
+          "votes": 235
+        },
+        {
+          "candidateName": "NOTA",
+          "votes": 256
+        }
+      ]
+    },
+    "Baglan": {
+      "winnerName": "KanakPandey",
+      "candidateList": [
+        {
+          "candidateName": "KanakPandey",
+          "votes": 281
+        },
+        {
+          "candidateName": "UrmilaBhat",
+          "votes": 250
+        },
+        {
+          "candidateName": "DiptenduNamboothiri",
+          "votes": 223
+        },
+        {
+          "candidateName": "NOTA",
+          "votes": 249
+        }
+      ]
+    },
+    "Chembur": {
+      "winnerName": "DinakarShah",
+      "candidateList": [
+        {
+          "candidateName": "DinakarShah",
+          "votes": 208
+        },
+        {
+          "candidateName": "ChandramohanAhuja",
+          "votes": 204
+        },
+        {
+          "candidateName": "VedaNaik",
+          "votes": 202
+        },
+        {
+          "candidateName": "SanyaKaniyar",
+          "votes": 196
+        },
+        {
+          "candidateName": "NOTA",
+          "votes": 188
+        }
+      ]
+    },
+    "Mukhed": {
+      "winnerName": "UditGill",
+      "candidateList": [
+        {
+          "candidateName": "UditGill",
+          "votes": 184
+        },
+        {
+          "candidateName": "NawalTandon",
+          "votes": 173
+        },
+        {
+          "candidateName": "BhaaswarMarar",
+          "votes": 172
+        },
+        {
+          "candidateName": "BhooshitDwivedi",
+          "votes": 166
+        },
+        {
+          "candidateName": "BhooshanKaniyar",
+          "votes": 162
+        },
+        {
+          "candidateName": "NOTA",
+          "votes": 173
+        }
+      ]
+    },
+    "Mahad": {
+      "winnerName": "AmritaJha",
+      "candidateList": [
+        {
+          "candidateName": "AmritaJha",
+          "votes": 275
+        },
+        {
+          "candidateName": "BhishamGandhi",
+          "votes": 251
+        },
+        {
+          "candidateName": "LakshmanPillai",
+          "votes": 249
+        },
+        {
+          "candidateName": "NOTA",
+          "votes": 229
+        }
+      ]
+    },
+    "Karanja": {
+      "winnerName": "AnalMalik",
+      "candidateList": [
+        {
+          "candidateName": "AnalMalik",
+          "votes": 206
+        },
+        {
+          "candidateName": "NavinGupta",
+          "votes": 198
+        },
+        {
+          "candidateName": "PoornimaTalwar",
+          "votes": 197
+        },
+        {
+          "candidateName": "SwarnalataJoshi",
+          "votes": 192
+        },
+        {
+          "candidateName": "NOTA",
+          "votes": 191
+        }
+      ]
+    }
+  }
+}
